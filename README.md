@@ -5,7 +5,7 @@ Improving the readability of the data frames which includes formatting and reorg
 
 Table of Contents
 
-In the folder PyCitySchools, you will find the python script PyCitySchools.py. This is the main script which provides the statistics and all the analysis for the schools in the city.
+In the folder PyCitySchools, you will find the python script PyCitySchools.ipynb. This Jupyter notebook provides the statistics and all the analysis for the schools in the city.
 In the Resources folder, you will find two csv files which the main script referes to pull out the data to analyse.
 Written analysis document includes the final tables produced by the data and the analysis. It also contains two conclusions in bold text.
 
